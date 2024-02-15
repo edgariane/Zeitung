@@ -83,21 +83,4 @@
 <script>
     window.onload = openPopup;
 </script>
-
-</body>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <button id="sidebarToggle" class="sidebar-toggle">
-        <img src="54206.png" alt="Laden...">
-    </button>
-    <div id="sidebar" class="sidebar">
-        <!-- Links will be added here -->
-    </div>
-    <script src="script.js"></script>
-</body>
 </html>
