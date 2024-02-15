@@ -122,7 +122,7 @@
 	</style>
 </head>
 <body>
-	![pipiman](cover.png)
+	![Logo](images/cover.png)
 	<style>
 	</style>
 </body>
