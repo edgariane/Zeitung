@@ -122,7 +122,7 @@
 	</style>
 </head>
 <body>
-	<div id="m">logoMontessori.jpg</div>
+	<div id="logoMontessori.jpg">M</div>
 	<a id="button" href="Zweite seite.html">Zeitungs Beiträge</a>
 </body>
 </html>
