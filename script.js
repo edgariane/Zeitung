@@ -1,8 +1,7 @@
-document.getElementById('menu-btn').addEventListener('click', function() {
-	var menu = document.getElementById('menu');
-	if (menu.style.left === '-250px') {
-		menu.style.left = '0';
-	} else {
-		menu.style.left = '-250px';
-	}
+document.querySelector('.hamburger-btn').addEventListener('click', function() {
+    document.querySelector('.sidebar').style.left = '0';
+});
+
+document.querySelector('.sidebar').addEventListener('click', function() {
+    document.querySelector('.sidebar').style.left = '-100%';
 });
