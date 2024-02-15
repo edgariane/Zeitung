@@ -114,7 +114,7 @@
 		}
 	</style>
 </head>
-<link rel="stylesheet" type="text/css" href="m.css">
+<link rel="stylesheet" type="bild/css" href="m.css">
 	<style>
 	</style>
 </body>
