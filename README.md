@@ -87,7 +87,7 @@
 	<title>Meine Webseite</title>
 	<style>
 		body {
-			background-image: url('topografisches-hintergrund.jpg');
+			background-image: url('logoMontessori.jpg');
 			background-size: cover;
 			background-position: center;
 			margin: 0;
