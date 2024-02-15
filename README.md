@@ -114,13 +114,7 @@
 		}
 	</style>
 </head>
-body {
-    background-image: url('../vector/cover.png');
-    background-size: cover;
-    background-position: center;
-    margin: 0;
-    padding: 0;
-}
+
 	<style>
 	</style>
 </body>
