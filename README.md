@@ -122,8 +122,18 @@
 	</style>
 </head>
 <body>
+<h1>Überschrift 1</h1>
+<h2>Überschrift 2</h2>
 
-	![Logo](cover.png)
+<ul>
+  <li>Liste</li>
+  <li>Eintrag 1</li>
+  <li>Eintrag 2</li>
+</ul>
+
+<p><strong>Fettschrift</strong> und <em>kursiv</em> Text.</p>
+
+<a href="https://github.com/">cover.png</a>
 	<style>
 	</style>
 </body>
