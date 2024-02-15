@@ -18,3 +18,9 @@
 #menu a:hover {
 	background: #ddd;
 }
+
+#menu-btn {
+	position: fixed;
+	top: 0;
+	left: 0;
+}
