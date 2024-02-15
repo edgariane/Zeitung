@@ -122,7 +122,7 @@
 	</style>
 </head>
 <body>
-	<img src="logoMontessori.jpg" alt="Logo">
+	<img src="cover.png" alt="Logo">
 	<style>
 	</style>
 </body>
