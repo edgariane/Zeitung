@@ -35,7 +35,7 @@ body {
     padding: 20px;
 }
 body {
-    background-image: url('../vector/cover.png');
+    background-image: url('../Neuer Ordner/cover.png');
     background-size: cover; /* Hintergrundbild auf gesamte Seite skalieren */
     background-position: center; /* Bild zentrieren */
 }
