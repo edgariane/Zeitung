@@ -86,13 +86,6 @@
 <head>
 	<title>Meine Webseite</title>
 	<style>
-		body {
-			background-image: url('cover.png');
-			background-size: cover;
-			background-position: center;
-			margin: 0;
-			padding: 0;
-		}
 		#m {
 			position: absolute;
 			top: 50%;
