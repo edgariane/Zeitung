@@ -122,7 +122,7 @@
 	</style>
 </head>
 body {
-    background-image: url('cover.png');
+    background-image: url('vector/cover.png');
     background-size: cover; /* Hintergrundbild auf gesamte Seite skalieren */
     background-position: center; /* Bild zentrieren */
 }
