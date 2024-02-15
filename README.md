@@ -122,7 +122,7 @@
 	</style>
 </head>
 <body>
-	![Logo](images/cover.png)
+	![Logo](Monte Magazin-logo/cover.png)
 	<style>
 	</style>
 </body>
