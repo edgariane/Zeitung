@@ -61,6 +61,26 @@
     <a href="#section2">Section 2</a>
     <a href="#section3">Section 3</a>
   </div>
+    <script>
+    // Select the button and panel elements
+    const btn = document.querySelector('#menu-btn');
+    const panel = document.querySelector('#menu-panel');
+
+    // Add a click event listener to the button
+    btn.addEventListener('click', () => {
+      // Toggle the 'open' class on the panel
+      panel.classList.toggle('open');
+    });
+
+    // Add a click event listener to the document
+    document.addEventListener('click', (e) => {
+      // If the click was outside the panel element
+      if (e.target !== btn && e.target !== panel) {
+        // Remove the 'open' class from the panel
+        panel.classList.remove('open');
+      }
+    });
+  </script>
 </body>
 
 <body>  
@@ -148,30 +168,6 @@
   // Select the search bar and button elements
   const search = document.querySelector('#search');
   const searchBtn = document.querySelector('#search-btn');
-
-
-
-
-          
-  <script>
-    // Select the button and panel elements
-    const btn = document.querySelector('#menu-btn');
-    const panel = document.querySelector('#menu-panel');
-
-    // Add a click event listener to the button
-    btn.addEventListener('click', () => {
-      // Toggle the 'open' class on the panel
-      panel.classList.toggle('open');
-    });
-
-    // Add a click event listener to the document
-    document.addEventListener('click', (e) => {
-      // If the click was outside the panel element
-      if (e.target !== btn && e.target !== panel) {
-        // Remove the 'open' class from the panel
-        panel.classList.remove('open');
-      }
-    });
   </script>
 </body>
 </html>
