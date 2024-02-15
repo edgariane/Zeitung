@@ -1,44 +1,36 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+    position: relative;
+    height: 200vh; /* To test the scrolling behavior */
 }
 
-#slideout-menu {
-  position: fixed;
-  top: 0;
-  left: -250px;
-  width: 250px;
-  height: 100%;
-  background: #333;
-  color: #fff;
-  padding: 20px;
-  transition: left 0.3s ease;
+.sidebar-toggle {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+    background: none;
+    border: none;
+    cursor: pointer;
 }
 
-#slideout-menu ul {
-  list-style: none;
-  padding: 0;
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -250px;
+    width: 250px;
+    height: 100%;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    transition: left 0.3s ease-out;
 }
 
-#slideout-menu ul li {
-  margin-bottom: 10px;
+.sidebar a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
 }
 
-#slideout-menu ul li a {
-  color: #fff;
-  text-decoration: none;
-}
-
-#menu-toggle {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  z-index: 999;
-  cursor: pointer;
-}
-
-#menu-toggle img {
-  width: 50px; /* Adjust as needed */
-  height: auto;
+.sidebar a:hover {
+    background: #ddd;
 }
