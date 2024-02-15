@@ -122,8 +122,7 @@
 	</style>
 </head>
 <body>
-	<![pipiman](Pfad-zum-Bild)
-">
+	<![pipiman](cover.png)>
 	<style>
 	</style>
 </body>
