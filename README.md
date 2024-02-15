@@ -122,10 +122,8 @@
 	</style>
 </head>
 <body>
-	<img src="logoMontessori.jpg" alt="Logo">
+	<m img src="logoMontessori.jpg" alt="Logo"</m>
 	<style>
-		}
-		#m {
 	</style>
 </body>
 <body>
