@@ -114,7 +114,7 @@
 		}
 	</style>
 </head>
-
+<link rel="stylesheet" type="text/css" href="Pfad-zu-CSS-Datei">
 	<style>
 	</style>
 </body>
