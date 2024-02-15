@@ -87,7 +87,7 @@
 	<title>Meine Webseite</title>
 	<style>
 		body {
-			background-image: url('NUS.jpg');
+			background-image: url('cover.png');
 			background-size: cover;
 			background-position: center;
 			margin: 0;
@@ -122,7 +122,8 @@
 	</style>
 </head>
 <body>
-	![Logo](Monte Magazin-logo/cover.png)
+
+	![Logo](cover.png)
 	<style>
 	</style>
 </body>
