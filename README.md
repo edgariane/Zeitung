@@ -123,6 +123,11 @@
 </head>
 <body>
 	<img src="logoMontessori.jpg" alt="Logo">
+	<style>
+		{
+			justyfy-content: center;
+		}
+	</style>
 </body>
 <body>
 	<a id="button" href="Zweite seite.html">Zeitungs Beiträge</a>
