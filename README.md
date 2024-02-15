@@ -122,7 +122,9 @@
 	</style>
 </head>
 <body>
-	<img="logoMontessori.jpg" alt="Logo">
+	<img src="logoMontessori.jpg" alt="Logo">
+</body>
+<body>
 	<a id="button" href="Zweite seite.html">Zeitungs Beiträge</a>
 </body>
 </html>
