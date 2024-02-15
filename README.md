@@ -121,19 +121,11 @@
 		}
 	</style>
 </head>
-<body>
-<h1>Überschrift 1</h1>
-<h2>Überschrift 2</h2>
-
-<ul>
-  <li>Liste</li>
-  <li>Eintrag 1</li>
-  <li>Eintrag 2</li>
-</ul>
-
-<p><strong>Fettschrift</strong> und <em>kursiv</em> Text.</p>
-
-<a href="https://github.com/">cover.png</a>
+body {
+    background-image: url('cover.png');
+    background-size: cover; /* Hintergrundbild auf gesamte Seite skalieren */
+    background-position: center; /* Bild zentrieren */
+}
 	<style>
 	</style>
 </body>
