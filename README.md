@@ -123,6 +123,6 @@
 </head>
 <body>
 	<div id="m">M</div>
-	<a id="button" href="https://github.com">GitHub</a>
+	<a id="button" href="Zweite seite.html">Zeitungs Beiträge</a>
 </body>
 </html>
