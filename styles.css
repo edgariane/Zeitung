@@ -34,3 +34,8 @@ body {
 #content {
     padding: 20px;
 }
+body {
+    background-image: url('Pfad-zum-Bild');
+    background-size: cover; /* Hintergrundbild auf gesamte Seite skalieren */
+    background-position: center; /* Bild zentrieren */
+}
