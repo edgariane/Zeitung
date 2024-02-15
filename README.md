@@ -93,7 +93,7 @@
 </head>
 <body>
     <button id="sidebarToggle" class="sidebar-toggle">
-        <img src="github.png" alt="GitHub Logo">
+        <img src="54206.png" alt="Laden...">
     </button>
     <div id="sidebar" class="sidebar">
         <!-- Links will be added here -->
