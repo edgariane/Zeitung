@@ -1,7 +1,8 @@
-document.querySelector('.hamburger-btn').addEventListener('click', function() {
-    document.querySelector('.sidebar').style.left = '0';
-});
+function toggleMenu() {
+    const menu = document.getElementById('menu');
+    menu.classList.toggle('hidden');
+}
 
-document.querySelector('.sidebar').addEventListener('click', function() {
-    document.querySelector('.sidebar').style.left = '-100%';
-});
+function goBack() {
+    window.history.back();
+}
