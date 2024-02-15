@@ -83,4 +83,46 @@
 <script>
     window.onload = openPopup;
 </script>
+<head>
+	<title>Meine Webseite</title>
+	<style>
+		body {
+			background-image: url('topografisches-hintergrund.jpg');
+			background-size: cover;
+			background-position: center;
+			margin: 0;
+			padding: 0;
+		}
+		#m {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			font-size: 100px;
+			color: red;
+			text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+		}
+		#button {
+			position: absolute;
+			bottom: 20px;
+			left: 50%;
+			transform: translateX(-50%);
+			width: 100px;
+			height: 100px;
+			background-color: white;
+			border: 5px solid black;
+			border-radius: 50%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			text-decoration: none;
+			color: black;
+			font-size: 24px;
+		}
+	</style>
+</head>
+<body>
+	<div id="m">M</div>
+	<a id="button" href="https://github.com">GitHub</a>
+</body>
 </html>
