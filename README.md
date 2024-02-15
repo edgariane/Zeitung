@@ -124,9 +124,8 @@
 <body>
 	<img src="logoMontessori.jpg" alt="Logo">
 	<style>
-		{
-			justyfy-content: center;
 		}
+		#m {
 	</style>
 </body>
 <body>
