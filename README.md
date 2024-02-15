@@ -85,6 +85,43 @@
 </script>
 
 </body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Slide Out Menu</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
 <body>
 
+<div id="menu-toggle">
+  <img src="menu-icon.png" alt="Menu">
+</div>
+
+<div id="slideout-menu">
+  <ul>
+    <li><a href="#section1">Section 1</a></li>
+    <li><a href="#section2">Section 2</a></li>
+    <li><a href="#section3">Section 3</a></li>
+    <!-- Add more links as needed -->
+  </ul>
+</div>
+
+<!-- Your website content goes here -->
+<section id="section1">
+  <h2>Section 1</h2>
+  <!-- Your content for section 1 -->
+</section>
+
+<section id="section2">
+  <h2>Section 2</h2>
+  <!-- Your content for section 2 -->
+</section>
+
+<section id="section3">
+  <h2>Section 3</h2>
+  <!-- Your content for section 3 -->
+</section>
+
+<script src="script.js"></script>
 </body>
+</html>
