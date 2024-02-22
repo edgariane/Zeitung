@@ -87,12 +87,14 @@
 <head>
 <head>
 	<title>Meine Webseite</title>
+	<div class ="cover">
+		<img src="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png">
+	</div>
 	<style>
-		#cover {
+cover {
     width: 300px;
     margin: 0 auto;
     padding: 20px;
-    background-image:<img src="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png">;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
