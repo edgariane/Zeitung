@@ -88,7 +88,7 @@
 <head>
 	<title>Meine Webseite</title>
 	<style>
-<img src="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png
+<img src="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png"
             height="100" width="100">
 		#button {
 			position: absolute;
