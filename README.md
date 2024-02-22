@@ -97,7 +97,7 @@
     padding: 20px;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 		#button {
 			position: absolute;
