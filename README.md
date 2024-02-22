@@ -91,10 +91,9 @@
 		<img src="Neuer Ordner/cover.png">
 	</div>
 	<style>
-cover {
+.cover {
     width: 1920px;
     height: 1280px;
-    margin: 0 auto;
     padding: 20px;
     background-position: center;
     background-repeat: no-repeat;
