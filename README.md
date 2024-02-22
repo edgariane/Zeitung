@@ -87,7 +87,7 @@
 <head>
 	<title>Meine Webseite</title>
 	<style>
-		#m {
+		#m {	<img scr="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png">
 			position: absolute;
 			top: 50%;
 			left: 50%;
@@ -115,7 +115,6 @@
 		}
 	</style>
 </head>
-<img scr="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png">
 	<style>
 	</style>
 </body>
