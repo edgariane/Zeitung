@@ -94,9 +94,7 @@
 .cover {
 	height: 1280px;
 	width: 1920px;
-    background-position: center;
-    background-repeat: no-repeat;
-	margin: centerwertzuioiugfdsdfghuiop;
+	margin: center;
 }
 		#button {
 			position: absolute;
