@@ -107,10 +107,7 @@
 			color: black;
 			font-size: 24px;
 		}
-	</style>
 </head>
-	<style>
-	</style>
 </body>
 <body>
 	<a id="button" href="Zweite seite.html">Zeitungs Beiträge</a>
