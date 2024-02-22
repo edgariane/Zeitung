@@ -87,14 +87,8 @@
 <head>
 	<title>Meine Webseite</title>
 	<style>
-		#m {	<img scr="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png">
-			position: absolute;
-			top: 50%;
-			left: 50%;
-			transform: translate(-50%, -50%);
-			font-size: 100px;
-			color: red;
-			text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+		#m {	<img scr="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png"
+			width="100" height="200">
 		}
 		#button {
 			position: absolute;
