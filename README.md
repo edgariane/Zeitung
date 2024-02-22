@@ -114,7 +114,8 @@
 		}
 	</style>
 </head>
-<img scr="cover.png">
+<img scr="Zeitung
+/Neuer Ordner/cover.png">
 	<style>
 	</style>
 </body>
