@@ -86,7 +86,7 @@
 </script>
 <head>
 <head>
-	<title>Meine Webseite</title>
+	<title>.</title>
 	<div class ="cover">
 		<img src="Neuer Ordner/cover.png">
 	</div>
@@ -94,7 +94,7 @@
 .cover {
 	height: 1280px;
 	width: 1920px;
-    background-position: center;
+    background-position: fixed;
     background-repeat: no-repeat;
 	margin: 0;
 }
