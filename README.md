@@ -114,7 +114,7 @@
 		}
 	</style>
 </head>
-<img scr="Zeitung
+<img scr="https://github.com/edgariane/Zeitung/edit/main/
 /Neuer Ordner/cover.png">
 	<style>
 	</style>
