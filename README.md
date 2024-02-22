@@ -114,7 +114,7 @@
 		}
 	</style>
 </head>
-<link rel="stylesheet" type="bild/css" href="m.css">
+<img scr="cover.png">
 	<style>
 	</style>
 </body>
