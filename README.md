@@ -94,7 +94,7 @@
 .cover {
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
 }
 		#button {
 			position: absolute;
