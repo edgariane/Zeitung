@@ -96,8 +96,7 @@
 	width: 1920px;
     background-position: fixed;
     background-repeat: no-repeat;
-	margin: 0;
-	display: none;
+	margin: center;
 }
 		#button {
 			position: absolute;
