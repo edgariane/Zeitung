@@ -97,6 +97,7 @@
     background-position: fixed;
     background-repeat: no-repeat;
 	margin: 0;
+	display: none;
 }
 		#button {
 			position: absolute;
