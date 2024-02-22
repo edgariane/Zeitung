@@ -114,8 +114,7 @@
 		}
 	</style>
 </head>
-<img scr="https://github.com/edgariane/Zeitung/edit/main/
-/Neuer Ordner/cover.png">
+<img scr="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png">
 	<style>
 	</style>
 </body>
