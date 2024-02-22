@@ -89,11 +89,10 @@
 	<title>Meine Webseite</title>
 	<style>
 		#cover {
-<img src="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png"
     width: 300px;
     margin: 0 auto;
     padding: 20px;
-    background-image: url('"https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png');
+    background-image: src="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png";
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
