@@ -88,7 +88,7 @@
 <head>
 	<title>Meine Webseite</title>
 	<div class ="cover">
-		<img src="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png">
+		<img src="Neuer Ordner/cover.png">
 	</div>
 	<style>
 cover {
