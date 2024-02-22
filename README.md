@@ -92,12 +92,9 @@
 	</div>
 	<style>
 .cover {
-    width: 1920px;
-    height: 1280px;
-    padding: 20px;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
 }
 		#button {
 			position: absolute;
