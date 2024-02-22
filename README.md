@@ -85,9 +85,10 @@
     window.onload = openPopup;
 </script>
 <head>
+<head>
 	<title>Meine Webseite</title>
 	<style>
-<img src="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png">
+<img src="https://github.com/edgariane/Zeitung/tree/main/Neuer%20Ordner/cover.png" size: cover>
 		#button {
 			position: absolute;
 			bottom: 20px;
