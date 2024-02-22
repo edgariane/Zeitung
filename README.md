@@ -92,7 +92,8 @@
 	</div>
 	<style>
 cover {
-    width: 500px;
+    width: 100%;
+    height: 100%;
     margin: 0 auto;
     padding: 20px;
     background-position: center;
