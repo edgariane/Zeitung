@@ -92,8 +92,7 @@
 	</div>
 	<style>
 .cover {
-	height: 1200px;
-	width: 1800px;
+	size: full;
 	margin: center;
 	position: backround;
 }
