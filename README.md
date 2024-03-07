@@ -94,7 +94,7 @@
 .cover {
 	size: backround;
 	margin: center;
-	position: backround;
+	position: absolute;
 }
 		#button {
 			position: absolute;
