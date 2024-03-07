@@ -92,7 +92,7 @@
 	</div>
 	<style>
 .cover {
-	size: backround;
+	size: cover;
 	margin: center;
 	position: absolute;
 }
